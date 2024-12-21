@@ -22,7 +22,7 @@ This is a simple Breakout game built using HTML, CSS, and JavaScript. The object
 ---
 
 ## Screenshot
-![Breakout Game Screenshot](screenshot.png)
+![Breakout Game Screenshot](Screenshot.png)
 
 ---
 
